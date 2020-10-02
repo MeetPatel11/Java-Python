@@ -1,5 +1,3 @@
-package one;
-
 import java.util.Scanner;
 
 public class Letter_Counter_App {
